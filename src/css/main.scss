@@ -1,0 +1,31 @@
+.container {
+	margin: 1em auto;
+	width: 80%;
+
+	@media (min-width: 30em) {
+		margin: 3em auto;
+		width: 20em;
+	}
+}
+
+.github-search,
+.github-search__label,
+.github-search__input {
+	width: 100%;
+}
+
+.github-search {
+	position: relative;
+}
+
+.github-search__label {
+	display: block;
+	padding-bottom: .3em;
+}
+
+.github-search__list {
+	position: absolute;
+	width: 100%;
+	list-style: none;
+	padding: 0;
+}
