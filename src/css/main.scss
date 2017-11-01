@@ -1,3 +1,6 @@
+$color-highlighted: #c6dcff;
+$color-list-bg: #fcfdff;
+
 .container {
 	margin: 1em auto;
 	width: 80%;
@@ -28,4 +31,36 @@
 	width: 100%;
 	list-style: none;
 	padding: 0;
+	background-color: $color-list-bg;
+}
+
+.github-search__item {
+	margin: .5em 0;
+	height: 2em;
+	width: 100%;
+
+	&:focus {
+		background-color: $color-highlighted;
+	}
+}
+
+.github-search__item__img {
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 3px;
+	width: 2em;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.github-search__item__link {
+	display: block;
+	cursor: pointer;
+}
+
+.github-search__item__name {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 1em;
+	color: black;
 }
