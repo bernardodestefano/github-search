@@ -26,20 +26,20 @@ Link at the [repository](https://github.com/bernardodestefano/webpack-boilerplat
 
 1. What do you like about your solution?
 	 
-I have tried to make it simple and readable, I like this simplicity ("We Simplify", right?).
+		I have tried to make it simple and readable, I like this simplicity ("We Simplify", right?).
 
 2. What do you dislike about your solution?
 
-The component's style is meant to give consistency primarily, a proper shape and decent look to the component. I don't like the appeal and the visual feeling. Having 3 hours I had to prioritize and I couldn't spent much time on it (to be honest the input itself needs absolutely some make up).
+		The component's style is meant to give consistency primarily, a proper shape and decent look to the component. I don't like the appeal and the visual feeling. Having 3 hours I had to prioritize and I couldn't spent much time on it (to be honest the input itself needs absolutely some make up).
 
 
 3. If you had a full day more to work on this, what would you improve?
 
-Improving the js codebase, the navigation and usability. The keyboard accessibility doesn't work as I would. Definitely an hard css restyling to make it more sexy (this should be easy since it looks so bad now).
+		Improving the js codebase, the navigation and usability. The keyboard accessibility doesn't work as I would. Definitely an hard css restyling to make it more sexy (this should be easy since it looks so bad now).
 
 4. If you would start from scratch now, what would you do differently?
 
-Taking in count the previous answer, in case of a brand new version I would love to use a framework to experiment a bit, pretty sure I'll choose Vuejs.
+		Taking in count the previous answer, in case of a brand new version I would love to use a framework to experiment a bit, pretty sure I'll choose Vuejs.
 
 ## Contributing
 
