@@ -39,9 +39,11 @@ $color-list-bg: #fcfdff;
 	height: 2em;
 	width: 100%;
 
-	&:focus {
+	&:focus,
+	&:hover {
 		background-color: $color-highlighted;
 	}
+
 }
 
 .github-search__item__img {
@@ -63,4 +65,8 @@ $color-list-bg: #fcfdff;
 	vertical-align: middle;
 	padding-left: 1em;
 	color: black;
+}
+
+.another-section {
+	text-align: center;
 }
